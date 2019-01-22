@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.AAA.BBB.PracticeSSSSSS.MicroBoot.MicroBootApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 97.915 s - in com.AAA.BBB.PracticeSSSSSS.MicroBoot.MicroBootApplicationTests
