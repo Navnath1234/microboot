@@ -29,7 +29,7 @@ public class ControllerClass {
 	public String demo() {
 		return "hello java";
 	}
-
+//post method
 	@PostMapping("/employees")
 	public Employee createEmployee(@Valid @RequestBody Employee emp)
 
